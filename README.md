@@ -1,0 +1,2 @@
+# docs
+Lux Documentation
