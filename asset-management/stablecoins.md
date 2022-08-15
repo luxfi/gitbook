@@ -1,0 +1,3 @@
+# Stablecoins
+
+Lux will employ a delta neutral stable coin strategy to protect investment principal while optimizing capital usage. This consists of deploying funds into a diversified portfolio of yield generating stable coins with the application of up to 20x leverage, made accessible by our prime brokerage, OTC desk, and exchange partnerships. Lux has identified a group of stable coins yielding between 12-20% APY. If the average rate of return is 15% and 20x leverage is applied, the result is a 300% return on equity prior to debt service costs and fees to insure against notable risks. This strategy provides for predictable and significant ROI with minimal risks, as the stable coins are pegged to the USD and principal can be insured.

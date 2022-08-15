@@ -1,23 +1,31 @@
 # Table of contents
 
-* [Get Started](README.md)
+## Executive Summary
 
-## The Basics
+* [Who We Are](README.md)
+* [What We Do](executive-summary/what-we-do.md)
+* [Creating Value for Investors](executive-summary/creating-value-for-investors.md)
+* [Value Added Services](executive-summary/value-added-services.md)
 
-* [Spaces](the-basics/spaces.md)
-* [Collections](the-basics/collections.md)
-* [The GitBook editor](the-basics/the-gitbook-editor.md)
-* [Live edit and locked edits](the-basics/live-edit-and-locked-edits.md)
-* [Change requests](the-basics/change-requests.md)
+## DeFi Ecosystem
 
-## Publishing
+* [The Lux Ecosystem:](defi-ecosystem/the-lux-ecosystem.md)
+* [Validators](defi-ecosystem/validators.md)
+* [Staking](defi-ecosystem/staking.md)
+* [Bridging](defi-ecosystem/bridging.md)
+* [Lux Card](defi-ecosystem/lux-card.md)
+* [Lux DAO](defi-ecosystem/lux-dao.md)
+* [Lux Wallet](defi-ecosystem/lux-wallet.md)
+* [Lux Dollar](defi-ecosystem/lux-dollar.md)
 
-* [Publishing your content](publishing/publishing-your-content.md)
+## Asset Management
 
-## Tips and tricks
+* [Overview](asset-management/overview.md)
+* [Stablecoins](asset-management/stablecoins.md)
+* [Long "Blue Chips"](asset-management/long-blue-chips.md)
+* [Treasury Collateralized Investment Notes (TCINs)](asset-management/treasury-collateralized-investment-notes-tcins.md)
+* [Acquisitions, PE & VC Strategy](asset-management/acquisitions-pe-and-vc-strategy.md)
 
-* [Speed up with quick find](tips-and-tricks/speed-up-with-quick-find.md)
+## Team Biographies
 
-## Next steps
-
-* [What next?](next-steps/what-next.md)
+* [Meet The Team](team-biographies/meet-the-team.md)
