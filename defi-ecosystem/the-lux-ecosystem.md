@@ -1,3 +1,5 @@
 # The Lux Ecosystem:
 
+![](<../.gitbook/assets/Screen Shot 2022-08-14 at 9.25.56 PM.png>)
+
 Lux is set to launch its DeFi ecosystem on the Lux Level 1 Blockchain by Q3 2022. This will consist of best-in-class decentralized finance functionality developed to generate ROI for participants and augment transactional capabilities for partners. Investors in the economy can earn yield through a variety of mechanisms including validation, staking, bridging, and lending/borrowing. Early investors in the Lux economy and high net worth individuals can acquire a Lux Validator NFT, which grants the holder the right to transaction fee revenue as well as bonded Lux tokens that can be staked to earn additional APY. Lux is a secure, proof of stake network with military-grade encryption and an intricate financial model to proactively manage treasury and liquidity.

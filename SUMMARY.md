@@ -6,6 +6,7 @@
 * [What We Do](executive-summary/what-we-do.md)
 * [Creating Value for Investors](executive-summary/creating-value-for-investors.md)
 * [Value Added Services](executive-summary/value-added-services.md)
+* [The Problem](executive-summary/the-problem.md)
 
 ## DeFi Ecosystem
 
@@ -17,6 +18,7 @@
 * [Lux DAO](defi-ecosystem/lux-dao.md)
 * [Lux Wallet](defi-ecosystem/lux-wallet.md)
 * [Lux Dollar](defi-ecosystem/lux-dollar.md)
+* [Lux Chain](defi-ecosystem/lux-chain.md)
 
 ## Asset Management
 
