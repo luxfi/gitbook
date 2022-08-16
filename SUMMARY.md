@@ -1,33 +1,33 @@
 # Table of contents
 
-## Executive Summary
+## Lux Overview <a href="#overview" id="overview"></a>
 
 * [Who We Are](README.md)
-* [What We Do](executive-summary/what-we-do.md)
-* [Creating Value for Investors](executive-summary/creating-value-for-investors.md)
-* [Value Added Services](executive-summary/value-added-services.md)
-* [The Problem](executive-summary/the-problem.md)
+* [What We Do](overview/what-we-do.md)
+* [Creating Value for Investors](overview/creating-value-for-investors.md)
+* [Value Added Services](overview/value-added-services.md)
+* [The Problem](overview/the-problem.md)
 
-## DeFi Ecosystem
+## Lux Ecosystem <a href="#ecosystem" id="ecosystem"></a>
 
-* [The Lux Ecosystem](defi-ecosystem/the-lux-ecosystem.md)
-* [Validators](defi-ecosystem/validators.md)
-* [Staking](defi-ecosystem/staking.md)
-* [Bridging](defi-ecosystem/bridging.md)
-* [Lux Card](defi-ecosystem/lux-card.md)
-* [Lux DAO](defi-ecosystem/lux-dao.md)
-* [Lux Wallet](defi-ecosystem/lux-wallet.md)
-* [Lux Dollar](defi-ecosystem/lux-dollar.md)
-* [Lux Chain](defi-ecosystem/lux-chain.md)
+* [Overview](ecosystem/overview.md)
+* [Validators](ecosystem/validators.md)
+* [Staking](ecosystem/staking.md)
+* [Bridging](ecosystem/bridging.md)
+* [Lux Card](ecosystem/lux-card.md)
+* [Lux DAO](ecosystem/lux-dao.md)
+* [Lux Wallet](ecosystem/lux-wallet.md)
+* [Lux Dollar](ecosystem/lux-dollar.md)
+* [Lux Chain](ecosystem/lux-chain.md)
 
-## Asset Management
+## Lux Fund
 
-* [Overview](asset-management/overview.md)
-* [Stablecoins](asset-management/stablecoins.md)
-* [Long "Blue Chips"](asset-management/long-blue-chips.md)
-* [Treasury Collateralized Investment Notes (TCINs)](asset-management/treasury-collateralized-investment-notes-tcins.md)
-* [Acquisitions, PE & VC Strategy](asset-management/acquisitions-pe-and-vc-strategy.md)
+* [Overview](lux-fund/overview.md)
+* [Stablecoins](lux-fund/stablecoins.md)
+* [Long "Blue Chips"](lux-fund/long-blue-chips.md)
+* [Treasury Collateralized Investment Notes (TCINs)](lux-fund/treasury-collateralized-investment-notes-tcins.md)
+* [Acquisitions, PE & VC Strategy](lux-fund/acquisitions-pe-and-vc-strategy.md)
 
-## Team Biographies
+## Team
 
-* [Meet The Team](team-biographies/meet-the-team.md)
+* [Lux Team](team/lux-team.md)
