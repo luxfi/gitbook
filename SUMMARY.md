@@ -10,7 +10,7 @@
 
 ## DeFi Ecosystem
 
-* [The Lux Ecosystem:](defi-ecosystem/the-lux-ecosystem.md)
+* [The Lux Ecosystem](defi-ecosystem/the-lux-ecosystem.md)
 * [Validators](defi-ecosystem/validators.md)
 * [Staking](defi-ecosystem/staking.md)
 * [Bridging](defi-ecosystem/bridging.md)
