@@ -13,7 +13,7 @@
 * [Overview](ecosystem/overview.md)
 * [Validators](ecosystem/validators.md)
 * [Staking](ecosystem/staking.md)
-* [Bridging](ecosystem/bridging.md)
+* [Lux Bridge](ecosystem/lux-bridge.md)
 * [Lux Card](ecosystem/lux-card.md)
 * [Lux DAO](ecosystem/lux-dao.md)
 * [Lux Wallet](ecosystem/lux-wallet.md)
