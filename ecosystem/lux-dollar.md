@@ -1,3 +1,3 @@
 # Lux Dollar
 
-![](../.gitbook/assets/15.png)
+![Lux will launch with the Lux Dollar, a financial service product backed by US Short-term US treasuries. While marketed and intended to fill the need of a truly universal, cheap liquid, and compliant stablecoin, its underlying security adds value as an investment vehicle not offered by current solutions. By holding of US treasuries, with their unmatched liquidity and regulatory preference, matched with their actual yield, transforms the nature of stabletokens. The current landscape of stabletokens is populated by unregulated, unredeemable, possibly illegal structures that are expensive and are only popular due to the lack of better alternatives.](../.gitbook/assets/15.png)
