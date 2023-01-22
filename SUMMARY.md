@@ -20,14 +20,14 @@
 * [Lux Dollar](ecosystem/lux-dollar.md)
 * [Lux Chain](ecosystem/lux-chain.md)
 
-## Assets
+## Strategies
 
-* [Overview](assets/overview.md)
-* [Stablecoins](assets/stablecoins.md)
-* [Long "Blue Chips"](assets/long-blue-chips.md)
-* [Treasury Collateralized Investment Notes (TCINs)](assets/treasury-collateralized-investment-notes-tcins.md)
-* [Acquisitions, PE & VC Strategy](assets/acquisitions-pe-and-vc-strategy.md)
+* [Strategies](strategies/strategies.md)
+* [Stablecoins](strategies/stablecoins.md)
+* [Long "Blue Chips"](strategies/long-blue-chips.md)
+* [Treasury Collateralized Investment Notes (TCINs)](strategies/treasury-collateralized-investment-notes-tcins.md)
+* [Acquisitions, PE & VC Strategy](strategies/acquisitions-pe-and-vc-strategy.md)
 
 ## Team
 
-* [Team](team/team.md)
+* [Team](team/lux-team.md)
