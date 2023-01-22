@@ -3,14 +3,14 @@
 ## Introduction <a href="#intro" id="intro"></a>
 
 * [Who We Are](README.md)
-* [What We Do](intro/what-we-do.md)
-* [Creating Value for Investors](intro/creating-value-for-investors.md)
-* [Value Added Services](intro/value-added-services.md)
-* [The Problem](intro/the-problem.md)
+* [What We Do](overview/what-we-do.md)
+* [Creating Value for Investors](overview/creating-value-for-investors.md)
+* [Value Added Services](overview/value-added-services.md)
+* [The Problem](overview/the-problem.md)
 
 ## Ecosystem
 
-* [Overview](ecosystem/overview.md)
+* [Ecosystem](ecosystem/ecosystem.md)
 * [Validators](ecosystem/validators.md)
 * [Staking](ecosystem/staking.md)
 * [Lux Bridge](ecosystem/lux-bridge.md)
@@ -20,13 +20,13 @@
 * [Lux Dollar](ecosystem/lux-dollar.md)
 * [Lux Chain](ecosystem/lux-chain.md)
 
-## Lux Fund
+## Assets
 
-* [Overview](lux-fund/overview.md)
-* [Stablecoins](lux-fund/stablecoins.md)
-* [Long "Blue Chips"](lux-fund/long-blue-chips.md)
-* [Treasury Collateralized Investment Notes (TCINs)](lux-fund/treasury-collateralized-investment-notes-tcins.md)
-* [Acquisitions, PE & VC Strategy](lux-fund/acquisitions-pe-and-vc-strategy.md)
+* [Overview](assets/overview.md)
+* [Stablecoins](assets/stablecoins.md)
+* [Long "Blue Chips"](assets/long-blue-chips.md)
+* [Treasury Collateralized Investment Notes (TCINs)](assets/treasury-collateralized-investment-notes-tcins.md)
+* [Acquisitions, PE & VC Strategy](assets/acquisitions-pe-and-vc-strategy.md)
 
 ## Team
 

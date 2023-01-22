@@ -10,6 +10,4 @@ The aforementioned issues are the symptoms of extreme **centralization**, which 
 
 What it presents is the challenge of finding the sweet-spot on a sliding scale between centralization and decentralization, where the amalgamation of ideologies from both schools of thought can lead to a product and outcome not otherwise achievable by either system independently. The relationship between viability and resiliency must be delicately balanced. The nascent nature of the industry is enough of an explanation for that phenomenon, the evidence of which can be detected by examining the practices around taxation, security, privacy, and more.
 
-&#x20;
-
 When subjected to scrutiny, it is evident that existing decentralized products are not generally very thoughtfully designed. The nascent nature of the industry is enough of an explanation for that phenomenon, the evidence of which can be detected by examining the practices around taxation, security, privacy, and more.
