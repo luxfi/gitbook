@@ -2,11 +2,11 @@
 
 ## Introduction <a href="#intro" id="intro"></a>
 
-* [Who We Are](README.md)
-* [What We Do](overview/what-we-do.md)
-* [Creating Value for Investors](overview/creating-value-for-investors.md)
-* [Value Added Services](overview/value-added-services.md)
-* [The Problem](overview/the-problem.md)
+* [About us](README.md)
+* [Lux Finance](intro/lux-finance.md)
+* [Creating Value](intro/creating-value.md)
+* [Real world assets (RWAs)](intro/real-world-assets-rwas.md)
+* [Challenges](intro/challenges.md)
 
 ## Ecosystem
 
@@ -22,11 +22,11 @@
 
 ## Strategies
 
-* [Strategies](strategies/strategies.md)
-* [Stablecoins](strategies/stablecoins.md)
-* [Long "Blue Chips"](strategies/long-blue-chips.md)
-* [Treasury Collateralized Investment Notes (TCINs)](strategies/treasury-collateralized-investment-notes-tcins.md)
-* [Acquisitions, PE & VC Strategy](strategies/acquisitions-pe-and-vc-strategy.md)
+* [Strategies](assets/overview.md)
+* [Stablecoins](assets/stablecoins.md)
+* [Long "Blue Chips"](assets/long-blue-chips.md)
+* [Treasury Collateralized Investment Notes (TCINs)](assets/treasury-collateralized-investment-notes-tcins.md)
+* [Acquisitions, PE & VC Strategy](assets/acquisitions-pe-and-vc-strategy.md)
 
 ## Team
 

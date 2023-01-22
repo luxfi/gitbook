@@ -1,6 +1,6 @@
-# The Problem
+# Challenges
 
-The traditional financial world is controlled by massive organizations whose incentives do not align with the tenets of financial stability. A forensic analysis of data representing the performance of the traditional financial system over the last 60-70 years reveals staggering faults, including the realities of rate changes and their effects on the imminent catastrophe of inflation. The misuse and abuse of the equities market has resulted in the collapse that we have now seen evidence of the onset of.
+Existing incentives do not align with financial stability. A forensic analysis of data representing the performance of the traditional financial system over the last 60-70 years reveals staggering faults, including the realities of rate changes and their effects on the imminent catastrophe of inflation. The misuse and abuse of the equities market has resulted in the collapse that we have now seen evidence of the onset of.
 
 Over the last century, we’ve seen rapid inflation creating an absolutely inhospitable environment for not only growth, but even for the most basic of sustainability for the now near-extinct middle class in the US, for example. This, however, is an issue occurring on a global scale and inflation is contributing to a troubled outlook for the global financial climate unlike any seen before.
 

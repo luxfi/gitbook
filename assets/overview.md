@@ -1,4 +1,4 @@
-# Overview
+# Strategies
 
 Lux will imminently be launching a multi-strategy asset management fund domiciled in Luxembourg. Through a protected cell structure with scalable and holistic back-office functionality, Lux Fund enables investment management and capital allocation decisions to be automated and scale to support unlimited assets. This fund will service a multitude of investor profiles with differing financial goals and risk appetites through segregated allocation of assets into a diversified portfolio projecting attractive returns while protecting principle against notable risks. The Asset Management vertical integrates synergistically with Lux’s transactional capabilities and in alignment with its blockchain expertise.&#x20;
 
