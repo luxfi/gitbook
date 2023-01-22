@@ -1,14 +1,14 @@
 # Table of contents
 
-## Lux Overview <a href="#overview" id="overview"></a>
+## Introduction <a href="#intro" id="intro"></a>
 
 * [Who We Are](README.md)
-* [What We Do](overview/what-we-do.md)
-* [Creating Value for Investors](overview/creating-value-for-investors.md)
-* [Value Added Services](overview/value-added-services.md)
-* [The Problem](overview/the-problem.md)
+* [What We Do](intro/what-we-do.md)
+* [Creating Value for Investors](intro/creating-value-for-investors.md)
+* [Value Added Services](intro/value-added-services.md)
+* [The Problem](intro/the-problem.md)
 
-## Lux Ecosystem <a href="#ecosystem" id="ecosystem"></a>
+## Ecosystem
 
 * [Overview](ecosystem/overview.md)
 * [Validators](ecosystem/validators.md)
