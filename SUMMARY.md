@@ -30,4 +30,4 @@
 
 ## Team
 
-* [Lux Team](team/lux-team.md)
+* [Team](team/team.md)

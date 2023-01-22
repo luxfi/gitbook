@@ -1,8 +1,8 @@
-# Meet The Team
+# Team
 
 ![](<../.gitbook/assets/1 (1).png>)
 
-Zach Kelling has over a decade of experience in blockchain, advertising, and marketing technology. He founded [Hanzo](https://hanzo.ai/), a Techstars-funded AI marketing platform that has powered some of the most successful crowdfunded product launches in history. Across ov Hanzo has generated over $1B dollars in revenue. Zach also founded Arca, where he pioneered the first digital securities platform approved by the SEC to tokenize US treasuries and government debt, and served as entrepreneur-in-residence at [Ikigai Asset Management](https://www.ikigai.fund/), another early crypto hedge fund.
+Zach Kelling has over a decade of experience in blockchain, advertising, and marketing technology. He founded [Hanzo](https://hanzo.ai/), a Techstars-funded AI marketing platform that has powered some of the most successful crowdfunded product launches in history. Across ov Hanzo has generated billions in valued. Zach also founded Arca, where he pioneered the first digital securities platform approved by the SEC to tokenize US treasuries and government debt, and served as entrepreneur-in-residence at [Ikigai Asset Management](https://www.ikigai.fund/), another early crypto hedge fund.
 
 He’s a founding member of several DAOs, including DEVxDAO, the first Switzerland-based blockchain association DAO, and BrightMoments DAO, the first gallery-focused DAO, which launched the first [NFT gallery in Venice, California](https://decrypt.co/68536/bright-moments-nft-art-installation-is-bringing-the-venice-ca-counter-culture-into-web-3-0).
 
