@@ -1,3 +1,3 @@
-# Who We Are
+📚 LUX Documentation
 
 Lux Partners Limited is a FinTech company domiciled in the Isle of Man and integrated with a regulated and licensed, money transmitter business. Leveraging a global structure, we are able to move assets in and out of emerging markets efficiently. Lux enables institutions and governments to take advantage of the many use cases of blockchain technology in a tax advantaged and regulated environment. It is therefore a fast and secure solution to store, move, and grow large sums of money and other assets, while eliminating the structural issues commonly faced by institutions when transacting with their partners.
