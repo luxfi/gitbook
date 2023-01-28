@@ -2,8 +2,8 @@
 
 ## Introduction <a href="#intro" id="intro"></a>
 
-* [About us](README.md)
-* [Lux Finance](intro/lux-finance.md)
+* [About LUX](README.md)
+* [LUX Finance](intro/lux-finance.md)
 * [Creating Value](intro/creating-value.md)
 * [Real world assets (RWAs)](intro/real-world-assets-rwas.md)
 * [Challenges](intro/challenges.md)
