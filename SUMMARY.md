@@ -22,7 +22,7 @@
 
 ## Strategies
 
-* [Strategies](assets/overview.md)
+* [Fund of Funds](assets/overview.md)
 * [Stablecoins](assets/stablecoins.md)
 * [Long "Blue Chips"](assets/long-blue-chips.md)
 * [Treasury Collateralized Investment Notes (TCINs)](assets/treasury-collateralized-investment-notes-tcins.md)
