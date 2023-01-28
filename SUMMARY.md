@@ -13,12 +13,12 @@
 * [Ecosystem](ecosystem/ecosystem.md)
 * [Validators](ecosystem/validators.md)
 * [Staking](ecosystem/staking.md)
-* [Lux Bridge](ecosystem/lux-bridge.md)
-* [Lux Card](ecosystem/lux-card.md)
-* [Lux DAO](ecosystem/lux-dao.md)
-* [Lux Wallet](ecosystem/lux-wallet.md)
-* [Lux Dollar](ecosystem/lux-dollar.md)
-* [Lux Chain](ecosystem/lux-chain.md)
+* [Bridge](ecosystem/lux-bridge.md)
+* [Credit Card](ecosystem/lux-card.md)
+* [DAO](ecosystem/lux-dao.md)
+* [LUX Wallet](ecosystem/lux-wallet.md)
+* [LUX Dollar](ecosystem/lux-dollar.md)
+* [Network](ecosystem/lux-chain.md)
 
 ## Strategies
 
