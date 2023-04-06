@@ -39,19 +39,6 @@ After selling his company in 2000 Vincent was focused on turnaround and business
 Most recently, Vincent led the sale of the breakthrough B2C social media platform “Triller” to Proxima Media. Vincent serves on the board of Triller.
 
 
-
-![](../.gitbook/assets/4.png)
-
-Jack Rindner brings a traditional finance background to DeFi. He spent his career in finance implementing business intelligence (BI) solutions at both Goldman Sachs and ExodusPoint Capital Management, a $13B AUM multi-strategy hedge fund.
-
-At Goldman, Jack approved lifecycle events for \~$375B in unsecured funding, designed strategic workflows for new product launches, and programmed Natural Language Processing (NLP) technology. On the Treasury Execution Services team, he enabled the migration of $80B in debt from legacy systems to strategic workflows, and restructured key risk controls for 15,000 trades.
-
-At ExodusPoint Capital Management, Jack reported to the Global Treasurer to develop database-driven BI tools for interpretation by the CEO, COO, and CFO. Additionally, Jack executed cash movements to optimize funding, streamlined forecasting on cash balances, positions, margin, and trading activity, and integrated financing activity into internal databases for SEC filings.
-
-Jack is also the founder of multiple Ecommerce companies in the music industry, and has collaborated with major labels and top artists to achieve top Billboard positions. In his free time, Jack enjoys outdoor activities like running, snowboarding, surfing, and restoring classic cars.
-
-
-
 ![](../.gitbook/assets/5.png)
 
 Vishnu Seesahai is a researcher specializing in engineering innovation and applied mathematics. Recent research topics have encompassed computation, decentralized architectures, blockchains and cryptography. Vishnu is the architect of the PKT.Cash network and the founder of the Healthmatica app, a public benefit health-technology.
