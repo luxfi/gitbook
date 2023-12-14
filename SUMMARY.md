@@ -22,7 +22,7 @@
 
 ## Funds
 
-* [Lux Fund of Funds](funds/overview.md)
+* [Fund of Funds](funds/overview.md)
 * [Arbitrage](funds/stablecoins.md)
 * [Long RWAs](funds/long-blue-chips.md)
 * [Lux Investment Notes (LINs)](funds/treasury-collateralized-investment-notes-tcins.md)
