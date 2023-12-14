@@ -20,13 +20,13 @@
 * [LUX Dollar](ecosystem/lux-dollar.md)
 * [Network](ecosystem/lux-chain.md)
 
-## Strategies
+## Funds
 
-* [Fund of Funds](assets/overview.md)
-* [Arbitrage](assets/stablecoins.md)
-* [Long RWAs](assets/long-blue-chips.md)
-* [Lux Investment Notes (LINs)](assets/treasury-collateralized-investment-notes-tcins.md)
-* [Venture](strategies/venture.md)
+* [Lux Fund of Funds](funds/overview.md)
+* [Arbitrage](funds/stablecoins.md)
+* [Long RWAs](funds/long-blue-chips.md)
+* [Lux Investment Notes (LINs)](funds/treasury-collateralized-investment-notes-tcins.md)
+* [Venture](funds/venture.md)
 
 ## Team
 
