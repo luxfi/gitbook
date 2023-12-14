@@ -1,3 +1,0 @@
-# Long RWAs
-
-Lux will allocate a portion of funds to a diversified portfolio of the top-performing and highly traded commodities, focusing on energy, oil, and gold. This includes investments in various energy sources, crude oil, and precious metals like gold. The trading strategy will be adaptable, utilizing leverage in certain market conditions and hedging against volatility and downside risk in others. The underlying thesis for this trading approach is based on the anticipation of significant growth in demand for energy and precious metals due to increasing global adoption, coupled with substantial institutional investment, leading to short and medium-term valuation boosts. Despite potential regulatory challenges, the long-term impact is expected to be positive.
