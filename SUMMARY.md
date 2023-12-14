@@ -25,7 +25,7 @@
 * [Fund of Funds](assets/overview.md)
 * [Arbitrage](assets/stablecoins.md)
 * [Long RWAs](assets/long-blue-chips.md)
-* [Collateralized Investment Notes (CINs)](assets/treasury-collateralized-investment-notes-tcins.md)
+* [Lux Investment Notes (LINs)](assets/treasury-collateralized-investment-notes-tcins.md)
 * [Acquisitions, PE & VC Strategy](assets/acquisitions-pe-and-vc-strategy.md)
 
 ## Team
