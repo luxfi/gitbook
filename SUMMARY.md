@@ -26,7 +26,7 @@
 * [Arbitrage](assets/stablecoins.md)
 * [Long RWAs](assets/long-blue-chips.md)
 * [Lux Investment Notes (LINs)](assets/treasury-collateralized-investment-notes-tcins.md)
-* [Acquisitions, PE & VC Strategy](assets/acquisitions-pe-and-vc-strategy.md)
+* [Venture](strategies/venture.md)
 
 ## Team
 
