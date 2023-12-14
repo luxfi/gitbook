@@ -3,7 +3,8 @@
 ## Introduction <a href="#intro" id="intro"></a>
 
 * [About](README.md)
-* [Compliance](intro/lux-finance.md)
+* [Components](intro/lux-finance/README.md)
+  * [Protocol](intro/lux-finance/protocol.md)
 * [Creating Value](intro/creating-value.md)
 * [Real world assets (RWAs)](intro/real-world-assets-rwas.md)
 * [Challenges](intro/challenges.md)
