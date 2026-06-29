@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="gitbook" width="880"></p>
+
 # About
 
 ## Getting started
